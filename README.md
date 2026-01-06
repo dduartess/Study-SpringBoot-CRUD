@@ -1,7 +1,5 @@
 # Study Spring Boot CRUD
 
-[!Java](https://www.oracle.com/java/)
-[!Spring Boot](https://spring.io/projects/spring-boot)
 
 ## 💻 Sobre o projeto
 
